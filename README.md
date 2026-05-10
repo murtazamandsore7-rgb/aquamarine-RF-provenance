@@ -18,3 +18,12 @@ This repository contains the code and data for the paper:
 ## Requirements
 ```bash
 pip install -r requirements.txt
+
+## Usage
+python rf_model.py
+python figure_s1_pca.py
+
+## Results
+- Deposit‑level accuracy: 82.8% (±2.3%) from 10‑fold cross‑validation
+- Robust provenance indicators: Cs, Sc, Ga (heat‑resistant)
+- Decision tree thresholds...
